@@ -8,3 +8,5 @@ Please cite this publication if you use this code.
 This paper has been accpted by "Biomedical Signal Processing and Control"
 
 Author: Wei Tan
+
+DOI: https://doi.org/10.1016/j.bspc.2020.102280
